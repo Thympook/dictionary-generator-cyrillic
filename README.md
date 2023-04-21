@@ -35,5 +35,5 @@ How to use
 Simply add text to the ``input.txt`` file, run the script. The result will be saved in the ``output.txt``
 
 
-I used this script in THIS project
-=============
+## I used this script in [THIS project](https://github.com/Thympook/pook-password-generator)
+
